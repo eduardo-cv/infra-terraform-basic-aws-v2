@@ -5,7 +5,15 @@ Duvidas : Discord
 
 Laboratório criação básica com terraform na aws.
 
-Primeiro passo e ter uma conta na aws e depois criar um usuário com credenciais de preferencia limite as polices para um acesso mais restrito.
+1 - Primeiro passo e ter uma conta na aws e depois criar um usuário com credenciais de preferencia limite as polices para um acesso mais restrito.
+
+  - abrir o painel e criar chave de acesso para regiao correspondente
+  - poderia ser feito automatizado porem prefiri demosntrar desta maneira
+  
+  - ex. par_virginia_linux no formato pem
+  - par_ohio_linux   no formato pem
+
+
 
 2 - Baixar o AWS CLI instalar
 
@@ -29,17 +37,14 @@ Primeiro passo e ter uma conta na aws e depois criar um usuário com credenciais
 
 4 - Criar uma pasta Ex. C:\terraform  descompactar o arquivo que foi baixado na pasta
 
-5 - Criar a variavel de ambiente  Ex. C:\terraform
+5 - Criar a variavel de ambiente  Ex. C:\Terraform
 
-6 - abrir o painel e criar chave de acesso para regiao correspondente
+![image](https://user-images.githubusercontent.com/82802634/218652625-5e240c2a-f162-4416-b740-52d54323723f.png)
 
-  - poderia ser feito automatizado porem prefiro desta maneira
-  
-  - ex. par_virginia_linux no formato pem
-  - par_ohio_linux   no formato pem
+![image](https://user-images.githubusercontent.com/82802634/218652731-29e126ad-ce3e-4233-b98d-9e80f78a7352.png)
 
 
-7 - No visual studio code
+6 - No visual studio code
 
 <h3> ************ em variaveis.tf   ************ </h3
  
@@ -53,15 +58,15 @@ variable "cidr_meu_ip" {
   default     = "0.0.0.0" # Trocar por seu ip real security acesso ssh
 }
 
-8 - Abra terminal de sua preferencia na pasta que vc baixou a infra
+7 - Abra terminal de sua preferencia na pasta que vc baixou a infra
 
-9 - terraform init 
+8 - terraform init 
   - para baixar os pacotes nescessários
 
-10 - terraform apply --auto-approve
+9 - terraform apply --auto-approve
   - para criar a infra
    
-11 - terraform destroy --auto-approve
+10 - terraform destroy --auto-approve
   - para destruir a infra
 
 <b> Resultado do laboratorio </b>
