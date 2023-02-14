@@ -11,6 +11,9 @@ Primeiro passo e ter uma conta na aws e depois criar um usuário com credenciais
 
   - https://aws.amazon.com/pt/cli/
   
+  ![image](https://user-images.githubusercontent.com/82802634/218651595-ce290db9-4910-4b83-b21b-3b1804894f36.png)
+
+  
   - abra um terminal de sua preferencia 
   
   - aws configure
