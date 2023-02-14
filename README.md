@@ -83,10 +83,18 @@ o resultado da criação
 
 ![image](https://user-images.githubusercontent.com/82802634/218654674-82c824be-afd4-4aa2-8f5f-f1198c4a441d.png)
 
+![image](https://user-images.githubusercontent.com/82802634/218654913-81c3e8e8-83f2-45ee-8a1d-285e98932ceb.png)
 
-   
+
 10 - terraform destroy --auto-approve
   - para destruir a infra
+
+![image](https://user-images.githubusercontent.com/82802634/218655056-532added-04a4-4139-9420-0a940109f32e.png)
+
+![image](https://user-images.githubusercontent.com/82802634/218655203-6a2668a0-4ffd-44dd-aa4e-fbca9d8deffa.png)
+
+![image](https://user-images.githubusercontent.com/82802634/218655282-f0f8a1f1-ee2a-46a9-8d1f-761e9843c301.png)
+
 
 <b> Resultado do laboratorio </b>
 
@@ -94,4 +102,8 @@ o resultado da criação
  - security group
  - 1 instancia na regiao definida
  - rodando o apache com php
+
+<h2> lembrando que o laborio é apenas um teste se não esta usando a infra destruir </h2> 
+
+
 
