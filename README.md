@@ -67,8 +67,18 @@ variable "cidr_meu_ip" {
 8 - terraform init 
   - para baixar os pacotes nescessários
 
+![image](https://user-images.githubusercontent.com/82802634/218654096-1cb6d756-ae6d-4173-bbed-1ac5f8c6b864.png)
+
+o resultado seria mais ou menos isso
+
+![image](https://user-images.githubusercontent.com/82802634/218654232-e80666ea-e424-4546-9ff0-fab8642f2f0e.png)
+
+
 9 - terraform apply --auto-approve
   - para criar a infra
+
+![image](https://user-images.githubusercontent.com/82802634/218654380-555f4732-6043-4ca4-889b-01e8b40f7352.png)
+
    
 10 - terraform destroy --auto-approve
   - para destruir a infra
