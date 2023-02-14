@@ -10,8 +10,8 @@ Laboratório criação básica com terraform na aws.
   - abrir o painel e criar chave de acesso para regiao correspondente
   - poderia ser feito automatizado porem prefiri demonstrar desta maneira
   
-  - ex. <b> par_virginia_linux </b> no formato pem
-  - <b> par_ohio_linux </b>   no formato pem
+  - ex. <b> par_virginia_linux </b> no formato pem na região da virginia
+  - <b> par_ohio_linux </b>   no formato pem na região da ohio
 
 
 
