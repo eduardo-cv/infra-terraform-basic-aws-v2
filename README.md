@@ -23,9 +23,10 @@ Primeiro passo e ter uma conta na aws e depois criar um usuário com credenciais
   - ex. par_virginia_linux   no formato pem
   - par_ohio_linux   no formato pem
 
-7 - Abra terminal de sua preferencia na pasta que vc baixou a infra
 
-<h2> ************ em variaveis.tf   ************ </h2>
+7 - No visual studio code
+
+<h3> ************ em variaveis.tf   ************ </h3
  
 locals {
   region = "${var.regiao["us-east-2"]}" # Definer qual regiao usar "us-east-1" ou "us-east-2"
@@ -37,12 +38,13 @@ variable "cidr_meu_ip" {
   default     = "0.0.0.0" # Trocar por seu ip real security acesso ssh
 }
 
+8 - Abra terminal de sua preferencia na pasta que vc baixou a infra
 
-8 - terraform init
+9 - terraform init
 
-9 - terraform apply --auto-approve    
+10 - terraform apply --auto-approve    
 
-10 - terraform destroy --auto-approve
+11 - terraform destroy --auto-approve
 
 
 <b> Resultado do laboratorio </b>
