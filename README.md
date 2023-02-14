@@ -18,9 +18,11 @@ Primeiro passo e ter uma conta na aws e depois criar um usuário com credenciais
 
 5 - Criar a variavel de ambiente  Ex. C:\terraform
 
-6 - Abra terminal de sua preferencia terraform init
+6 - Abra terminal de sua preferencia na pasta que vc baixou a infra
 
-7 - terraform apply --auto-approve
+8 - terraform init
+
+7 - terraform apply --auto-approve    
 
 8 - terraform destroy --auto-approve
 
