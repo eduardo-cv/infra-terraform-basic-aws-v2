@@ -1,4 +1,4 @@
-Discord 
+Duvidas : Discord 
 
 ![image](https://user-images.githubusercontent.com/82802634/218651082-f8e7f959-f409-4b24-8b58-dc203791854c.png)
 
