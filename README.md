@@ -8,7 +8,7 @@ Laboratório criação básica com terraform na aws.
 1 - Primeiro passo e ter uma conta na aws e depois criar um usuário com credenciais de preferencia limite as polices para um acesso mais restrito.
 
   - abrir o painel e criar chave de acesso para regiao correspondente
-  - poderia ser feito automatizado porem prefiri demosntrar desta maneira
+  - poderia ser feito automatizado porem prefiri demonstrar desta maneira
   
   - ex. par_virginia_linux no formato pem
   - par_ohio_linux   no formato pem
@@ -34,6 +34,9 @@ Laboratório criação básica com terraform na aws.
 3 - baixar o arquivo terraform
 
   - https://developer.hashicorp.com/terraform/downloads?product_intent=terraform
+
+![image](https://user-images.githubusercontent.com/82802634/218653404-ee93a9e7-4ed9-4486-a857-b606c9e87452.png)
+
 
 4 - Criar uma pasta Ex. C:\terraform  descompactar o arquivo que foi baixado na pasta
 
