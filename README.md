@@ -25,6 +25,19 @@ Primeiro passo e ter uma conta na aws e depois criar um usuário com credenciais
 
 7 - Abra terminal de sua preferencia na pasta que vc baixou a infra
 
+<h2> ************ em variaveis.tf   ************ </h2>
+ 
+locals {
+  region = "${var.regiao["us-east-2"]}" # Definer qual regiao usar "us-east-1" ou "us-east-2"
+}
+
+variable "cidr_meu_ip" {
+  description = "Meu IP"
+  type        = string
+  default     = "0.0.0.0" # Trocar por seu ip real security acesso ssh
+}
+
+
 8 - terraform init
 
 9 - terraform apply --auto-approve    
