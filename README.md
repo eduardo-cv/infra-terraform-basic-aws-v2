@@ -19,8 +19,10 @@ Primeiro passo e ter uma conta na aws e depois criar um usuário com credenciais
 5 - Criar a variavel de ambiente  Ex. C:\terraform
 
 6 - abrir o painel e criar chave de acesso para regiao correspondente
+
+  - poderia ser feito automatizado porem prefiro desta maneira
   
-  - ex. par_virginia_linux   no formato pem
+  - ex. par_virginia_linux no formato pem
   - par_ohio_linux   no formato pem
 
 
