@@ -27,7 +27,7 @@ Primeiro passo e ter uma conta na aws e depois criar um usuário com credenciais
 8 - terraform destroy --auto-approve
 
 
-Resultado do laboratorio
+<b> Resultado do laboratorio </b>
 
  - vpc 
  - security group
