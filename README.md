@@ -103,7 +103,7 @@ o resultado da criação
  - 1 instancia na regiao definida
  - rodando o apache com php
 
-<h2> lembrando que o laborio é apenas um teste se não esta usando a infra destruir </h2> 
+<h2> lembrando que o laboratório é apenas um teste se não esta usando a infra destruir </h2> 
 
 
 
