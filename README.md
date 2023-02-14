@@ -49,8 +49,9 @@ Laboratório criação básica com terraform na aws.
 
 6 - No visual studio code
 
-<h3> ************ em variaveis.tf   ************ </h3
- 
+![image](https://user-images.githubusercontent.com/82802634/218653702-ca191dea-ada0-4cd5-99a3-2942db548f35.png)
+
+
 locals {
   region = "${var.regiao["us-east-2"]}" # Definer qual regiao usar "us-east-1" ou "us-east-2"
 }
