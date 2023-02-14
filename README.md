@@ -7,16 +7,21 @@ Laboratório criação básica com terraform na aws.
 
 Primeiro passo e ter uma conta na aws e depois criar um usuário com credenciais de preferencia limite as polices para um acesso mais restrito.
 
-2 - Baixar o AWS CLI instalar e configurar.
+2 - Baixar o AWS CLI instalar
 
   - https://aws.amazon.com/pt/cli/
   
   ![image](https://user-images.githubusercontent.com/82802634/218651595-ce290db9-4910-4b83-b21b-3b1804894f36.png)
 
   
-  - abra um terminal de sua preferencia 
+  - abra um terminal de sua preferencia e configurar o cli.
   
   - aws configure
+  - 
+  - colocar as chaves de credenciais do usuario
+  
+  ![image](https://user-images.githubusercontent.com/82802634/218652056-a49b01df-c2f8-49ec-989c-37441883b608.png)
+
   
 3 - baixar o arquivo terraform
 
