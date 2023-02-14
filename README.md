@@ -5,7 +5,9 @@ Duvidas : Discord
 
 Laboratório criação básica com terraform na aws.
 
-1 - Primeiro passo e ter uma conta na aws e depois criar um usuário com credenciais de preferencia limite as polices para um acesso mais restrito.
+1 - Primeiro passo e ter uma conta na aws e depois criar um usuário com credenciais de preferencia <b>limite as polices </b> para um acesso mais restrito.
+
+   OBS : Cuidado ao dar acesso a tudo Ex. Administrator Access este não é uma boa pratica de segurança.
 
   - abrir o painel e criar chave de acesso para regiao correspondente
   - poderia ser feito automatizado porem prefiri demonstrar desta maneira
