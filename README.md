@@ -40,12 +40,14 @@ variable "cidr_meu_ip" {
 
 8 - Abra terminal de sua preferencia na pasta que vc baixou a infra
 
-9 - terraform init
+9 - terraform init 
+  - para baixar os pacotes nescessários
 
-10 - terraform apply --auto-approve    
-
+10 - terraform apply --auto-approve
+  - para criar a infra
+   
 11 - terraform destroy --auto-approve
-
+  - para destruir a infra
 
 <b> Resultado do laboratorio </b>
 
