@@ -18,13 +18,18 @@ Primeiro passo e ter uma conta na aws e depois criar um usuário com credenciais
 
 5 - Criar a variavel de ambiente  Ex. C:\terraform
 
-6 - Abra terminal de sua preferencia na pasta que vc baixou a infra
+6 - abrir o painel e criar chave de acesso para regiao correspondente
+  
+  - ex. par_virginia_linux   no formato pem
+  - par_ohio_linux   no formato pem
+
+7 - Abra terminal de sua preferencia na pasta que vc baixou a infra
 
 8 - terraform init
 
-7 - terraform apply --auto-approve    
+9 - terraform apply --auto-approve    
 
-8 - terraform destroy --auto-approve
+10 - terraform destroy --auto-approve
 
 
 <b> Resultado do laboratorio </b>
