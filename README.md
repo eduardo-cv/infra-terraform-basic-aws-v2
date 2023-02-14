@@ -26,3 +26,11 @@ Primeiro passo e ter uma conta na aws e depois criar um usuário com credenciais
 
 8 - terraform destroy --auto-approve
 
+
+Resultado do laboratorio
+
+ - vpc 
+ - security group
+ - 1 instancia na regiao definida
+ - rodando o apache com php
+
