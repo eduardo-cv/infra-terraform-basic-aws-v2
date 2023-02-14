@@ -1,3 +1,8 @@
+Discord 
+
+![image](https://user-images.githubusercontent.com/82802634/218651082-f8e7f959-f409-4b24-8b58-dc203791854c.png)
+
+
 Laboratório criação básica com terraform na aws.
 
 Primeiro passo e ter uma conta na aws e depois criar um usuário com credenciais de preferencia limite as polices para um acesso mais restrito.
