@@ -79,6 +79,11 @@ o resultado seria mais ou menos isso
 
 ![image](https://user-images.githubusercontent.com/82802634/218654380-555f4732-6043-4ca4-889b-01e8b40f7352.png)
 
+o resultado da criação
+
+![image](https://user-images.githubusercontent.com/82802634/218654674-82c824be-afd4-4aa2-8f5f-f1198c4a441d.png)
+
+
    
 10 - terraform destroy --auto-approve
   - para destruir a infra
